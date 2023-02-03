@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background: whitesmoke;
+  background: #a2a8d3;
   overflow-x: hidden;
   font-family: Verdana, sans-serif;
   font-size: 1rem;
@@ -48,13 +48,13 @@ body {
   position: fixed;
   right: 0;
   width: 100%;
-  background: whitesmoke;
+  background: #a2a8d3;
   height: 60px;
   z-index: -1;
 }
 
 .clickable {
-  color: dodgerblue;
+  color: black;
   cursor: pointer;
   user-select: none;
 }
